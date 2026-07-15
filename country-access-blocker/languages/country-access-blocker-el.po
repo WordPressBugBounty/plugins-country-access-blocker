@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Αποκλειστής Χωρών"
+
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+msgid "Enable country blocking"
+msgstr "Ενεργοποίηση αποκλεισμού χωρών"
+
+msgid "Enable IP-based country blocking"
+msgstr "Ενεργοποίηση αποκλεισμού χωρών με βάση IP"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr ""
+"Αυτό το πρόσθετο λειτουργεί μόνο όταν ο αποκλεισμός με βάση IP είναι "
+"ενεργοποιημένος."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Ενεργοποίηση αποκλεισμού χωρών με βάση IP (χρησιμοποιεί ip-api.com | 45 "
+"αιτήσεις ανά λεπτό | Δωρεάν Έκδοση)"
+
+msgid "Save settings"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+msgid "Dismiss"
+msgstr "Απόρριψη"
+
+msgid "Valeri"
+msgstr "Βαλέρι"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Γεια σου, είμαι ο Βαλέρι 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Ευχαριστώ που χρησιμοποιείτε αυτό το πρόσθετο."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"Αν αναζητάτε περισσότερα χρήσιμα πρόσθετα, μπορείτε να επισκεφθείτε την "
+"ιστοσελίδα μου."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Αν σας αρέσει αυτό το πρόσθετο, θα εκτιμούσα μια κριτική."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Αξιολογήστε αυτό το πρόσθετο."
+
+msgid "Your detected country:"
+msgstr "Η ανιχνευμένη χώρα σας:"
+
+msgid "Block all except my country"
+msgstr "Μπλοκάρε όλα εκτός από τη δική μου χώρα."
+
+msgid "Unblock all"
+msgstr "Άρση αποκλεισμού όλων"
+
+msgid "Country"
+msgstr "Χώρα"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "Block"
+msgstr "Αποκλεισμός"
+
+msgid "Blocked"
+msgstr "Αποκλεισμένο"
+
+msgid "Allowed"
+msgstr "Επιτρεπόμενο"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Η πρόσβαση από τη χώρα σας (%s) έχει αποκλειστεί."

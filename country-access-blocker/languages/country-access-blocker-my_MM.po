@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: my_MM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "နိုင်ငံတားဆီးသူ"
+
+msgid "Settings saved."
+msgstr "စက်တင်များ သိမ်းဆည်းပြီးပါပြီ။"
+
+msgid "Unknown"
+msgstr "မသိပါ။"
+
+msgid "Enable country blocking"
+msgstr "နိုင်ငံတားဆီးမှုကို ဖွင့်ပါ"
+
+msgid "Enable IP-based country blocking"
+msgstr "IP-အခြေခံနိုင်ငံတားဆီးမှု ဖွင့်ပါ"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "IP-အခြေခံတားဆီးမှုကို ဖွင့်ထားရင်သာ ဤ ပလဂွင်းသည် အလုပ်လုပ်ပါမည်။"
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"IP-အခြေခံနိုင်ငံတားဆီးမှု ဖွင့်ပါ (ip-api.com ကိုအသုံးပြုသည် | မိနစ်စဉ် 45 "
+"ခွင့်ရ | Free Version)"
+
+msgid "Save settings"
+msgstr "စက်တင်များ သိမ်းဆည်းပါ"
+
+msgid "Dismiss"
+msgstr "ဖယ်ရှားပါ"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "မင်္ဂလာပါ၊ ကျွန်တော် Valeri ဖြစ်ပါတယ် 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "ဤပလဂွင်းကို အသုံးပြုထားတဲ့အတွက် ကျေးဇူးတင်ပါတယ်။"
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"ပိုမိုအသုံးဝင်သော ပလဂွင်းများ ရှာဖွေလိုပါက ကျွန်တော်၏ ဝက်ဘ်ဆိုက်ကို "
+"ကြည့်နိုင်ပါသည်။"
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "ဤပလဂွင်းကိုနှစ်သက်ပါက သုံးသပ်ချက်တစ်ခု ပေးပါ။"
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "ဤပလဂွင်းကို အကဲဖြတ်ပါ"
+
+msgid "Your detected country:"
+msgstr "သင့်သိရှိထားသောနိုင်ငံ:"
+
+msgid "Block all except my country"
+msgstr "မိမိနိုင်ငံကိုသာ ခွင့်ပြုထားပြီး အခြားနိုင်ငံများကို တားဆီးပါ"
+
+msgid "Unblock all"
+msgstr "အားလုံးကို ဖွင့်ပါ"
+
+msgid "Country"
+msgstr "နိုင်ငံ"
+
+msgid "Status"
+msgstr "အခြေအနေ"
+
+msgid "Block"
+msgstr "တားဆီးပါ"
+
+msgid "Blocked"
+msgstr "တားဆီးထားသည်"
+
+msgid "Allowed"
+msgstr "ခွင့်ပြုထားသည်"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "သင့်နိုင်ငံမှ ဝင်ရောက်မှု (%s) ကို တားဆီးထားသည်。"

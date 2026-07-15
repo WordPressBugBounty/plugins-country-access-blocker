@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Landsblockerare"
+
+msgid "Settings saved."
+msgstr "Inställningar sparade."
+
+msgid "Unknown"
+msgstr "Okänt"
+
+msgid "Enable country blocking"
+msgstr "Aktivera landsblockering"
+
+msgid "Enable IP-based country blocking"
+msgstr "Aktivera IP-baserad landsblockering"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr ""
+"Det här pluginet fungerar endast när IP-baserad blockering är aktiverad."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Aktivera IP-baserad landsblockering (använder ip-api.com | 45 förfrågningar "
+"per minut | Gratisversion)"
+
+msgid "Save settings"
+msgstr "Spara inställningar"
+
+msgid "Dismiss"
+msgstr "Avvisa"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Hej, jag heter Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Tack för att du använder det här tillägget."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"Om du letar efter fler användbara tillägg kan du besöka min webbplats."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Om du gillar det här tillägget skulle jag uppskatta en recension."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Betygsätt det här tillägget."
+
+msgid "Your detected country:"
+msgstr "Ditt upptäckta land:"
+
+msgid "Block all except my country"
+msgstr "Blockera allt utom mitt land."
+
+msgid "Unblock all"
+msgstr "Lås upp allt"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Block"
+msgstr "Blockera"
+
+msgid "Blocked"
+msgstr "Blockerat"
+
+msgid "Allowed"
+msgstr "Tillåtet"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Åtkomsten från ditt land (%s) har blockerats."

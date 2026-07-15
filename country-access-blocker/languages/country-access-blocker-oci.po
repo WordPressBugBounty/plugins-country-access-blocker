@@ -1,0 +1,96 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: oci\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Blocador de país"
+
+msgid "Settings saved."
+msgstr "Paràmetres guardats."
+
+msgid "Unknown"
+msgstr "Desconegut"
+
+msgid "Enable country blocking"
+msgstr "Activar lo bloqueig de país"
+
+msgid "Enable IP-based country blocking"
+msgstr "Activar lo bloqueig de país basat sus IP"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr ""
+"Aqueste plugin fonciona sonque quand lo bloqueig basat sus IP es activat."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Activar lo bloqueig de país basat sus IP (utiliza ip-api.com | 45 "
+"solicitacions per minuta | Version gratuita)"
+
+msgid "Save settings"
+msgstr "Gardatz los paràmetres."
+
+msgid "Dismiss"
+msgstr "Descartar"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Bonjorn, soi Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Mercé d'utilizar aqueste plugin."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "Se cerchez d'autes plugins utiles, podes consultar lo meu site web."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Se vos agrada aqueste plugin, seriá content d'una recension."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Calificar aqueste plugin"
+
+msgid "Your detected country:"
+msgstr "Vòstre país detectat:"
+
+msgid "Block all except my country"
+msgstr "Bloquèja tot excepte mon país."
+
+msgid "Unblock all"
+msgstr "Desbloqueja tot"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Status"
+msgstr "Estat"
+
+msgid "Block"
+msgstr "Bloquejar"
+
+msgid "Blocked"
+msgstr "Bloquejat"
+
+msgid "Allowed"
+msgstr "Permés"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Accès des vòstres país (%s) es blocat."

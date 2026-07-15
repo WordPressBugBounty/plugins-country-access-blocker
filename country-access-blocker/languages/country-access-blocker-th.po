@@ -1,0 +1,96 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "บล็อกประเทศ"
+
+msgid "Settings saved."
+msgstr "ตั้งค่าบันทึกเรียบร้อยแล้ว"
+
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+msgid "Enable country blocking"
+msgstr "เปิดการบล็อกประเทศ"
+
+msgid "Enable IP-based country blocking"
+msgstr "เปิดการบล็อกประเทศตาม IP"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "ปลั๊กอินนี้ทำงานได้เฉพาะเมื่อเปิดการบล็อกด้วย IP เท่านั้น."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"เปิดการบล็อกประเทศตาม IP (ใช้ ip-api.com | 45 คำขอต่อนาที | เวอร์ชันฟรี)"
+
+msgid "Save settings"
+msgstr "บันทึกการตั้งค่า"
+
+msgid "Dismiss"
+msgstr "ปิด"
+
+msgid "Valeri"
+msgstr "วาเลอรี"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "สวัสดีครับ ผมวาเลอรี 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "ขอบคุณที่ใช้ปลั๊กอินนี้"
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"ถ้าคุณกำลังมองหาปลั๊กอินที่มีประโยชน์เพิ่มเติม "
+"คุณสามารถเยี่ยมชมเว็บไซต์ของฉันได้"
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "ถ้าคุณชอบปลั๊กอินนี้ ฉันจะดีใจมากถ้าคุณช่วยรีวิว"
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "ให้คะแนนปลั๊กอินนี้"
+
+msgid "Your detected country:"
+msgstr "ประเทศที่ตรวจพบของคุณ:"
+
+msgid "Block all except my country"
+msgstr "บล็อกทั้งหมด ยกเว้นประเทศของฉัน"
+
+msgid "Unblock all"
+msgstr "ปลดบล็อกทั้งหมด"
+
+msgid "Country"
+msgstr "ประเทศ"
+
+msgid "Status"
+msgstr "สถานะ"
+
+msgid "Block"
+msgstr "บล็อก"
+
+msgid "Blocked"
+msgstr "ถูกบล็อก"
+
+msgid "Allowed"
+msgstr "อนุญาต"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "การเข้าถึงจากประเทศของคุณ (%s) ถูกบล็อกแล้ว."

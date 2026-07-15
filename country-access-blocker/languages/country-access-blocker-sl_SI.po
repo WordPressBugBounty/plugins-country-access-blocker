@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sl_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Blokator držav"
+
+msgid "Settings saved."
+msgstr "Nastavitve so shranjene."
+
+msgid "Unknown"
+msgstr "Neznano"
+
+msgid "Enable country blocking"
+msgstr "Omogoči blokiranje držav"
+
+msgid "Enable IP-based country blocking"
+msgstr "Omogoči IP-blokiranje držav"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "Ta vtičnik deluje le, če je omogočeno IP-blokiranje."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Omogoči IP-blokiranje držav (uporablja ip-api.com | 45 zahtev na minuto | "
+"Brezplačna različica)"
+
+msgid "Save settings"
+msgstr "Shrani nastavitve"
+
+msgid "Dismiss"
+msgstr "Zapri"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Živjo, jaz sem Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Hvala, ker uporabljate ta vtičnik."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "Če iščete več uporabnih vtičnikov, lahko obiščete mojo spletno stran."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Če vam je všeč ta vtičnik, bi bil vesel vaše ocene."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Oceni ta vtičnik."
+
+msgid "Your detected country:"
+msgstr "Vaša zaznana država:"
+
+msgid "Block all except my country"
+msgstr "Blokiraj vse razen moje države."
+
+msgid "Unblock all"
+msgstr "Odblokiraj vse."
+
+msgid "Country"
+msgstr "Država"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Block"
+msgstr "Blokiraj"
+
+msgid "Blocked"
+msgstr "Blokirano"
+
+msgid "Allowed"
+msgstr "Dovoljeno"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Dostop iz vaše države (%s) je blokiran."

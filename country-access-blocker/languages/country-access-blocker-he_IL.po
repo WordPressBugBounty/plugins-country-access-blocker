@@ -1,0 +1,94 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "חסימת מדינות"
+
+msgid "Settings saved."
+msgstr "ההגדרות נשמרו."
+
+msgid "Unknown"
+msgstr "לא ידוע"
+
+msgid "Enable country blocking"
+msgstr "הפעל חסימת מדינות"
+
+msgid "Enable IP-based country blocking"
+msgstr "הפעל חסימת מדינות לפי IP"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "תוסף זה עובד רק כאשר חסימת IP מופעלת."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"הפעל חסימת מדינות לפי IP (משתמש ב-ip-api.com | 45 בקשות לדקה | גרסה חינמית)"
+
+msgid "Save settings"
+msgstr "שמור הגדרות"
+
+msgid "Dismiss"
+msgstr "סגור"
+
+msgid "Valeri"
+msgstr "ולרי"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "היי, אני ולרי 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "תודה ששימשת בתוסף זה."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "אם אתם מחפשים תוספים מועילים נוספים, תוכלו לבקר באתר שלי."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "אם אהבתם את התוסף הזה, אשמח לקבל ביקורת."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "דרג את התוסף"
+
+msgid "Your detected country:"
+msgstr "המדינה שזוהתה:"
+
+msgid "Block all except my country"
+msgstr "חסום הכל למעט המדינה שלי."
+
+msgid "Unblock all"
+msgstr "הסר חסימת הכל."
+
+msgid "Country"
+msgstr "מדינה"
+
+msgid "Status"
+msgstr "מצב"
+
+msgid "Block"
+msgstr "חסום"
+
+msgid "Blocked"
+msgstr "נחסם"
+
+msgid "Allowed"
+msgstr "מותר"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "הגישה ממדינתך (%s) נחסמה."

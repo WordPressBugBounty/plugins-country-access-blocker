@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Улс орны блоклогч"
+
+msgid "Settings saved."
+msgstr "Тохиргоо хадгалагдлаа."
+
+msgid "Unknown"
+msgstr "Үл мэдэгдэх"
+
+msgid "Enable country blocking"
+msgstr "Улс дагуу блоклохыг идэвхжүүлээрэй"
+
+msgid "Enable IP-based country blocking"
+msgstr "IP-д суурилсан улсаар blokkлохыг идэвхжүүлээрэй"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "IP-д суурилсан блоклолт идэвхжсэн байх үед л энэ плагин ажиллана."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"IP-д суурилсан улс орны блоклолтыг идэвхжүүлэх (ip-api.com | минут тутамд 45"
+" хүсэлт | Үнэгүй хувилбар)"
+
+msgid "Save settings"
+msgstr "Тохиргоог хадгалах"
+
+msgid "Dismiss"
+msgstr "Цуцлах"
+
+msgid "Valeri"
+msgstr "Валери"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Сайн байна уу, би Валери 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Энэ плагиныг ашигласны төлөө баярлалаа."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "Хэрэгтэй илүү плагинуудыг хайж байвал миний вэбсайтыг үзээрэй."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Хэрэв та энэ плагинд таалагдсан бол үнэлгээ бичээрэй."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Энэ плагинд үнэлгээ өгөөрэй."
+
+msgid "Your detected country:"
+msgstr "Таны илрүүлсэн улс:"
+
+msgid "Block all except my country"
+msgstr "Миний улсаас бусдыг бүгдийг блоклоорой"
+
+msgid "Unblock all"
+msgstr "Бүх улсыг нээлттэй болго."
+
+msgid "Country"
+msgstr "Улс"
+
+msgid "Status"
+msgstr "Байдал"
+
+msgid "Block"
+msgstr "Блоклох"
+
+msgid "Blocked"
+msgstr "Блоклагдсан"
+
+msgid "Allowed"
+msgstr "Зөвшөөрөгдсөн"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Таны улсаас (%s) нэвтрэх боломж хаагдсан."

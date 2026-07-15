@@ -1,0 +1,100 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ms_MY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Penyekat Negara"
+
+msgid "Settings saved."
+msgstr "Tetapan telah disimpan."
+
+msgid "Unknown"
+msgstr "Tidak diketahui"
+
+msgid "Enable country blocking"
+msgstr "Aktifkan penyekatan negara"
+
+msgid "Enable IP-based country blocking"
+msgstr "Aktifkan penyekatan negara berasaskan IP"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr ""
+"Plugin ini hanya berfungsi apabila penyekatan berasaskan IP diaktifkan."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Aktifkan penyekatan negara berasaskan IP (menggunakan ip-api.com | 45 "
+"permintaan seminit | Versi Percuma)"
+
+msgid "Save settings"
+msgstr "Simpan tetapan"
+
+msgid "Dismiss"
+msgstr "Tutup"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Hai, saya Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Terima kasih kerana menggunakan pemalam ini."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"Jika anda sedang mencari pemalam yang lebih berguna, anda boleh melawat "
+"laman web saya."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr ""
+"Jika anda suka plugin ini, saya akan berbesar hati jika anda memberikan "
+"ulasan."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Nilai plugin ini"
+
+msgid "Your detected country:"
+msgstr "Negara yang dikesan:"
+
+msgid "Block all except my country"
+msgstr "Blok semua kecuali negara saya"
+
+msgid "Unblock all"
+msgstr "Nyahsekat semua"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Block"
+msgstr "Sekat"
+
+msgid "Blocked"
+msgstr "Disekat"
+
+msgid "Allowed"
+msgstr "Dibenarkan"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Akses dari negara anda (%s) telah disekat."

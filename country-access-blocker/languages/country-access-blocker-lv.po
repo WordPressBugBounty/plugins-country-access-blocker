@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Valsts bloķētājs"
+
+msgid "Settings saved."
+msgstr "Iestatījumi saglabāti."
+
+msgid "Unknown"
+msgstr "Nezināms"
+
+msgid "Enable country blocking"
+msgstr "Ieslēgt valsts bloķēšanu"
+
+msgid "Enable IP-based country blocking"
+msgstr "Ieslēgt IP balstītu valsts bloķēšanu"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr ""
+"Šis spraudnis darbojas tikai tad, ja ir ieslēgta IP balstīta bloķēšana."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Ieslēgt IP balstītu valsts bloķēšanu (izmanto ip-api.com | 45 pieprasījumi "
+"minūtē | Bezmaksas versija)"
+
+msgid "Save settings"
+msgstr "Saglabāt iestatījumus."
+
+msgid "Dismiss"
+msgstr "Aizvērt"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Sveiki, es esmu Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Paldies par šo spraudņa lietošanu."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"Ja meklējat vairāk noderīgu spraudņu, varat apskatīt manu tīmekļa vietni."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Ja jums patīk šis spraudnis, es būtu priecīgs par atsauksmi."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Novērtējiet šo spraudni"
+
+msgid "Your detected country:"
+msgstr "Jūsu noteiktā valsts:"
+
+msgid "Block all except my country"
+msgstr "Bloķēt visu, izņemot manu valsti"
+
+msgid "Unblock all"
+msgstr "Atbloķēt visu"
+
+msgid "Country"
+msgstr "Valsts"
+
+msgid "Status"
+msgstr "Statuss"
+
+msgid "Block"
+msgstr "Bloķēt"
+
+msgid "Blocked"
+msgstr "Bloķēts"
+
+msgid "Allowed"
+msgstr "Atļauts"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Piekļuve no jūsu valsts (%s) ir bloķēta."

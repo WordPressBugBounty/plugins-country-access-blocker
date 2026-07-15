@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: skr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "ملک بلاکر"
+
+msgid "Settings saved."
+msgstr "ترتیبات محفوظ ہو گئیں۔"
+
+msgid "Unknown"
+msgstr "نامعلوم"
+
+msgid "Enable country blocking"
+msgstr "ملک بلاکنگ فعال کرو"
+
+msgid "Enable IP-based country blocking"
+msgstr "IP-بنیاد ملک بلاکنگ فعال کرو"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "ایہ پلگ اِن تبھی کم کرے جدو IP-بنیاد ملک بلاکنگ فعال ہووے."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"IP-بنیاد ملک بلاکنگ فعال کرو (ip-api.com استعمال کرے | فی منٹ 45 درخواستاں |"
+" مفت ورژن)"
+
+msgid "Save settings"
+msgstr "ترتیبات محفوظ کرو"
+
+msgid "Dismiss"
+msgstr "رد کریں"
+
+msgid "Valeri"
+msgstr "والیری"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "ہیلو، میں والیری 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "ایہ پلگ اِن استعمال کرنے دا شکریہ۔"
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "جے تساں ہور کارآمد پلگ اِن لبھ رہے ہو، تاں میری ویب سائٹ دیکھو。"
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "جے تساں ایہ پلگ اِن پسند آوے، تے میری خوشی ہے ریویو دی。"
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "ایہ پلگ اِن نوں ریٹ کرو"
+
+msgid "Your detected country:"
+msgstr "تُہاڑا معلوم ملک:"
+
+msgid "Block all except my country"
+msgstr "میرے ملک دے علاوہ سارے بلاک کرو"
+
+msgid "Unblock all"
+msgstr "سارے ہٹا دیو"
+
+msgid "Country"
+msgstr "ملک"
+
+msgid "Status"
+msgstr "حالت"
+
+msgid "Block"
+msgstr "بلاک کرو"
+
+msgid "Blocked"
+msgstr "بلاک کیا گیا"
+
+msgid "Allowed"
+msgstr "اجازت یافتہ"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "تُہاڑے ملک (%s) توں رسائی بلاک تھی گئی اے。"

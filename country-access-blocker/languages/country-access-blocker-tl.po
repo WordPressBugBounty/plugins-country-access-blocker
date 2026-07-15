@@ -1,0 +1,100 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Blocker ng Bansa"
+
+msgid "Settings saved."
+msgstr "Naka-save ang mga setting."
+
+msgid "Unknown"
+msgstr "Hindi kilala"
+
+msgid "Enable country blocking"
+msgstr "Paganahin ang pagharang ng bansa."
+
+msgid "Enable IP-based country blocking"
+msgstr "Paganahin ang pagharang ng bansa batay sa IP."
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr ""
+"Gumagana lamang ang plugin na ito kapag naka-enable ang pagharang batay sa "
+"IP."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Paganahin ang IP-based na pagharang ng bansa (gumagamit ng ip-api.com | 45 "
+"kahilingan kada minuto | Libreng Bersyon)"
+
+msgid "Save settings"
+msgstr "I-save ang mga setting."
+
+msgid "Dismiss"
+msgstr "Isara"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Kamusta, ako si Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Salamat sa paggamit ng plugin na ito."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"Kung naghahanap ka ng mas kapaki-pakinabang na mga plugin, maaari mong "
+"bisitahin ang aking website."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr ""
+"Kung nagustuhan mo ang plugin na ito, ikalulugod ko ang isang pagsusuri."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "I-rate ang plugin na ito"
+
+msgid "Your detected country:"
+msgstr "Ang bansang natukoy mo:"
+
+msgid "Block all except my country"
+msgstr "Harangan ang lahat maliban sa aking bansa."
+
+msgid "Unblock all"
+msgstr "I-unblock ang lahat."
+
+msgid "Country"
+msgstr "Bansa"
+
+msgid "Status"
+msgstr "Katayuan"
+
+msgid "Block"
+msgstr "Harangan"
+
+msgid "Blocked"
+msgstr "Naharangan"
+
+msgid "Allowed"
+msgstr "Pinapayagan"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Ang pag-access mula sa iyong bansa (%s) ay na-block na."

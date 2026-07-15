@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "దేశం బ్లాకర్"
+
+msgid "Settings saved."
+msgstr "సెట్టింగ్లు సేవ్ అయ్యాయి."
+
+msgid "Unknown"
+msgstr "తెలియదు"
+
+msgid "Enable country blocking"
+msgstr "దేశ బ్లాకింగ్‌ను సక్రియం చేయండి."
+
+msgid "Enable IP-based country blocking"
+msgstr "IP-ఆధారిత దేశ బ్లాకింగ్‌ను సక్రియం చేయండి"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "IP-ఆధారిత బ్లాకింగ్ సక్రియమైతే మాత్రమే ఈ ప్లగిన్ పని చేస్తుంది."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"IP-ఆధారిత దేశ బ్లాకింగ్‌ను సక్రియం చేయండి (ip-api.com ను ఉపయోగిస్తుంది | "
+"నిమిషానికి 45 అభ్యర్థనలు | ఉచిత వెర్షన్)"
+
+msgid "Save settings"
+msgstr "సెట్టింగ్లు సేవ్ చేయండి"
+
+msgid "Dismiss"
+msgstr "రద్దు"
+
+msgid "Valeri"
+msgstr "వాలెరి"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "హాయ్, నేను వాలెరి 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "ఈ ప్లగిన్ ఉపయోగించినందుకు ధన్యవాదాలు."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "మీకు మరింత సహాయకరమైన ప్లగిన్‌లు కావాలనుకుంటే నా వెబ్‌సైట్‌ను చూడండి."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "ఈ ప్లగిన్ ఇష్టపడితే, నాకు సమీక్ష ఇవ్వడం ఆనందంగా ఉంటుంది."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "ఈ ప్లగిన్‌ను రేట్ చేయండి"
+
+msgid "Your detected country:"
+msgstr "మీ గుర్తించబడిన దేశం:"
+
+msgid "Block all except my country"
+msgstr "నా దేశాన్ని మినహాయించి అన్ని దేశాలను బ్లాక్ చేయండి."
+
+msgid "Unblock all"
+msgstr "అన్ని బ్లాక్‌లను తీసివేయండి."
+
+msgid "Country"
+msgstr "దేశం"
+
+msgid "Status"
+msgstr "స్థితి"
+
+msgid "Block"
+msgstr "బ్లాక్"
+
+msgid "Blocked"
+msgstr "బ్లాక్ చేయబడింది"
+
+msgid "Allowed"
+msgstr "అనుమతించబడింది"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "మీ దేశం (%s) నుండి యాక్సెస్ బ్లాక్ చేయబడింది."

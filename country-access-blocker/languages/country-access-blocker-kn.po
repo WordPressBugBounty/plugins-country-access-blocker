@@ -1,0 +1,96 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "ದೇಶ ನಿಷೇಧಕ"
+
+msgid "Settings saved."
+msgstr "ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಉಳಿಸಲಾಗಿದೆ."
+
+msgid "Unknown"
+msgstr "ಅಜ್ಞಾತ"
+
+msgid "Enable country blocking"
+msgstr "ದೇಶ ನಿರ್ಬಂಧವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ."
+
+msgid "Enable IP-based country blocking"
+msgstr "IP-ಆಧಾರಿತ ದೇಶ ನಿರ್ಬಂಧವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ."
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr ""
+"IP-ಆಧಾರಿತ ದೇಶ ನಿರ್ಬಂಧ ಸಕ್ರಿಯವಾಗಿದ್ದಾಗ ಮಾತ್ರ ಈ ಪ್ಲಗಿನ್ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"IP-ಆಧಾರಿತ ದೇಶ ನಿಷೇಧವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ (ip-api.com ಬಳಸಿ | ಪ್ರತಿ ನಿಮಿಷಕ್ಕೆ 45 "
+"ವಿನಂತಿಗಳು | ಉಚಿತ ಆವೃತ್ತಿ)"
+
+msgid "Save settings"
+msgstr "ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಉಳಿಸಿ."
+
+msgid "Dismiss"
+msgstr "ಮುಚ್ಚಿ"
+
+msgid "Valeri"
+msgstr "ವಾಲೇರಿ"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "ಹಾಯ್, ನಾನು ವಾಲೇರಿ 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "ಈ ಪ್ಲಗಿನ್ ಬಳಸಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "ಇನ್ನಷ್ಟು ಉಪಯುಕ್ತ ಪ್ಲಗಿನ್‌ಗಳನ್ನು ಹುಡುಕುತ್ತಿದ್ದರೆ, ನನ್ನ ವೆಬ್‌ಸೈಟ್ ನೋಡಿ."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "ಈ ಪ್ಲಗಿನ್ ನಿಮಗೆ ಇಷ್ಟವಾದರೆ, ಒಂದು ವಿಮರ್ಶೆ ನೀಡಿದರೆ ನನಗೆ ಸಂತೋಷವಾಗುತ್ತದೆ."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "ಈ ಪ್ಲಗಿನ್‌ಗೆ ರೇಟು ನೀಡಿ."
+
+msgid "Your detected country:"
+msgstr "ನಿಮ್ಮ ಪತ್ತೆಯಾದ ದೇಶ:"
+
+msgid "Block all except my country"
+msgstr "ನನ್ನ ದೇಶವನ್ನೇ ಹೊರತುಪಡಿಸಿ ಎಲ್ಲಾ ದೇಶಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ."
+
+msgid "Unblock all"
+msgstr "ಎಲ್ಲಾ ನಿರ್ಬಂಧ ತೆರವುಗೊಳಿಸಿ."
+
+msgid "Country"
+msgstr "ದೇಶ"
+
+msgid "Status"
+msgstr "ಸ್ಥಿತಿ"
+
+msgid "Block"
+msgstr "ನಿರ್ಬಂಧಿಸಿ"
+
+msgid "Blocked"
+msgstr "ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ."
+
+msgid "Allowed"
+msgstr "ಅನುಮತಿಸಲಾಗಿದೆ."
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "ನಿಮ್ಮ ದೇಶದಿಂದ ಪ್ರವೇಶ (%s) ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ."

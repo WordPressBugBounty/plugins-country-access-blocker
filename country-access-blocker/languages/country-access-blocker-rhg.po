@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: rhg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Desh Blockar"
+
+msgid "Settings saved."
+msgstr "Setings shongrokkhon korun."
+
+msgid "Unknown"
+msgstr "Ajana"
+
+msgid "Enable country blocking"
+msgstr "Desh blok kora chalu kor."
+
+msgid "Enable IP-based country blocking"
+msgstr "IP-ot desh blok kora chalu kor."
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "Ei plugin sudhu IP-ot desh blok kora chalu thakle kaj kore."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"IP-ot desh blok kora chalu kor (ip-api.com byabohar kore | 45 por minute | "
+"Free Version)"
+
+msgid "Save settings"
+msgstr "Setings shongrokkhon korun."
+
+msgid "Dismiss"
+msgstr "Dismis korun."
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Hai, ami Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Ei plugin bebohar korar jonno dhonnobad."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "Aro upokar plug-in khujtese? Amar website-ta dekhun."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Ei plugin ta jodi bhalo lage, ami review dite khushi hobo."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Ei plugin ke rate korun."
+
+msgid "Your detected country:"
+msgstr "Apnar detect kora desh:"
+
+msgid "Block all except my country"
+msgstr "Amar desh chara shob blok korun."
+
+msgid "Unblock all"
+msgstr "Shob blok khulun."
+
+msgid "Country"
+msgstr "Desh"
+
+msgid "Status"
+msgstr "Obosta"
+
+msgid "Block"
+msgstr "Blok korun."
+
+msgid "Blocked"
+msgstr "Blok kora hoise."
+
+msgid "Allowed"
+msgstr "Onumoti."
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Apnar desh theke (%s) theke access blok kora hoise."

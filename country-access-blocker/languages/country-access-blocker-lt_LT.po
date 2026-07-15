@@ -1,0 +1,96 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Šalies blokatorius"
+
+msgid "Settings saved."
+msgstr "Nustatymai išsaugoti."
+
+msgid "Unknown"
+msgstr "Nežinoma"
+
+msgid "Enable country blocking"
+msgstr "Įgalinti šalies blokavimą"
+
+msgid "Enable IP-based country blocking"
+msgstr "Įgalinti šalies blokavimą pagal IP"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "Šis įskiepis veikia tik tada, kai įjungtas IP pagrindu blokavimas."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Įgalinti IP pagrindu šalies blokavimą (naudoja ip-api.com | 45 užklausų per "
+"minutę | Nemokama versija)"
+
+msgid "Save settings"
+msgstr "Išsaugoti nustatymus."
+
+msgid "Dismiss"
+msgstr "Atšaukti"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Labas, aš esu Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Dėkojame už šio įskiepio naudojimą."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"Jei ieškote daugiau naudingų papildinių, galite aplankyti mano svetainę."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Jei šis įskiepis jums patinka, būčiau dėkingas už atsiliepimą."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Įvertinkite šį papildinį."
+
+msgid "Your detected country:"
+msgstr "Jūsų nustatyta šalis:"
+
+msgid "Block all except my country"
+msgstr "Blokuokite viską, išskyrus mano šalį."
+
+msgid "Unblock all"
+msgstr "Išblokuoti viską."
+
+msgid "Country"
+msgstr "Šalis"
+
+msgid "Status"
+msgstr "Statusas"
+
+msgid "Block"
+msgstr "Blokuoti"
+
+msgid "Blocked"
+msgstr "Blokuota"
+
+msgid "Allowed"
+msgstr "Leidžiama"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Prieiga iš jūsų šalies (%s) buvo užblokuota."

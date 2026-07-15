@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: si_LK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "රට තහනම්කරුවා"
+
+msgid "Settings saved."
+msgstr "සැකසුම් සුරක්ෂිත කරන ලදි."
+
+msgid "Unknown"
+msgstr "නොදන්නා"
+
+msgid "Enable country blocking"
+msgstr "රට තහනම සක්‍රීය කරන්න"
+
+msgid "Enable IP-based country blocking"
+msgstr "IP-පදනම් රට තහනම සක්‍රීය කරන්න"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "IP-පදනම් තහනම සක්‍රීය කර ඇත්නම් පමණක් මෙම ප්ලග්ඉන් ක්‍රියා කරයි."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"IP-පදනම් රට තහනම සක්‍රීය කරන්න (ip-api.com භාවිතා කරයි | මිනිත්තුකට 45 "
+"ඉල්ලීම් | නොමිලේ සංස්කරණය)"
+
+msgid "Save settings"
+msgstr "සැකසුම් සුරකින්න"
+
+msgid "Dismiss"
+msgstr "අහෝසි කරන්න"
+
+msgid "Valeri"
+msgstr "වැලෙරි"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "හයි, මම වැලෙරි 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "මෙම ප්ලග්ඉන් භාවිතා කර තිබෙන ඔබට ස්තුතියි."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "තවත් උපකාරී ප්ලගීන් සොයනවා නම්, මගේ වෙබ්අඩවිය බලන්න."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "මෙම ප්ලග්ඉන් ඔබට කැමතිනම්, සමාලෝචනයක් කරන්න."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "මෙම ප්ලග්ඉන් අගයන්න"
+
+msgid "Your detected country:"
+msgstr "ඔබ හඳුනාගත් රට:"
+
+msgid "Block all except my country"
+msgstr "මගේ රට හැර සියලු රටවල් තහනම් කරන්න"
+
+msgid "Unblock all"
+msgstr "සියලු තහනම් ඉවත් කරන්න"
+
+msgid "Country"
+msgstr "රට"
+
+msgid "Status"
+msgstr "තත්ත්වය"
+
+msgid "Block"
+msgstr "තහනම් කරන්න"
+
+msgid "Blocked"
+msgstr "තහනම් කරන ලදි"
+
+msgid "Allowed"
+msgstr "අවසර ලැබී ඇත"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "ඔබගේ රටෙන් ප්‍රවේශය (%s) තහනම් කර ඇත."

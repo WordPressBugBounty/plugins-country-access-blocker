@@ -1,0 +1,98 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Riigi blokeerija"
+
+msgid "Settings saved."
+msgstr "Seaded salvestatud."
+
+msgid "Unknown"
+msgstr "Tundmatu"
+
+msgid "Enable country blocking"
+msgstr "Luba riigi blokeerimine"
+
+msgid "Enable IP-based country blocking"
+msgstr "Luba IP-põhine riigi blokeerimine"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr ""
+"See pistikprogramm töötab ainult siis, kui IP-põhine blokeerimine on "
+"lubatud."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Luba IP-põhine riigi blokeerimine (kasutab ip-api.com | 45 päringut minutis "
+"| Tasuta versioon)"
+
+msgid "Save settings"
+msgstr "Salvesta seaded."
+
+msgid "Dismiss"
+msgstr "Sulge"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Tere, olen Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Aitäh selle pistikprogrammi kasutamise eest."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"Kui otsite veel kasulikke pistikprogramme, võite külastada minu veebisaiti."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Kui see pistikprogramm sulle meeldib, oleksin arvustuse eest tänulik."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Hinda seda pistikprogrammi."
+
+msgid "Your detected country:"
+msgstr "Teie tuvastatud riik:"
+
+msgid "Block all except my country"
+msgstr "Blokeeri kõik riigid, välja arvatud minu riik."
+
+msgid "Unblock all"
+msgstr "Eemalda blokeering kõigi jaoks."
+
+msgid "Country"
+msgstr "Riik"
+
+msgid "Status"
+msgstr "Staatus"
+
+msgid "Block"
+msgstr "Blokeeri"
+
+msgid "Blocked"
+msgstr "Blokeeritud"
+
+msgid "Allowed"
+msgstr "Lubatud"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Juurdepääs teie riigist (%s) on blokeeritud."

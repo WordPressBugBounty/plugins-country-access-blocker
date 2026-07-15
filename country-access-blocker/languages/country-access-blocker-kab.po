@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: kab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "Ittafas n Tamurt"
+
+msgid "Settings saved."
+msgstr "Asent iwweladen d-yeqnen."
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "Enable country blocking"
+msgstr "Saffen taggara n yimalan"
+
+msgid "Enable IP-based country blocking"
+msgstr "Saffen taggara n tawuri n yiman (IP)"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "Alaṛ nniḍ-itt watsen d-ttwacert."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"Saffen taggara n tawuri n yiman (yessefru ip-api.com | 45 iḍelliwin f yir t "
+"tiwsa n yural | Tudert ar umḍu)"
+
+msgid "Save settings"
+msgstr "Segg aḍaṛ"
+
+msgid "Dismiss"
+msgstr "D amekkan"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "Aẓul, nek Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "Slamet i yefka ad-itḍeḍ"
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "Ma teggiḍɣ iḍaren ar-tneddu-g, ad-d-yar d-website-s."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "Ma tid ṭt-ttwasent-in, ad-yiḍen amanɣa zdat-nniḍ"
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "Nefḍeḍ aɣyul-agi"
+
+msgid "Your detected country:"
+msgstr "Tamurt uḍ-nek isem iḍen:"
+
+msgid "Block all except my country"
+msgstr "Ttawen tamurt yid-win yessawel"
+
+msgid "Unblock all"
+msgstr "Ennɣi awal-is"
+
+msgid "Country"
+msgstr "Tamurt"
+
+msgid "Status"
+msgstr "Tugga"
+
+msgid "Block"
+msgstr "Azzant"
+
+msgid "Blocked"
+msgstr "Akecc"
+
+msgid "Allowed"
+msgstr "Iḍallen"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "Amazzu n-wal i yiman (%%s) d-yerr sibɣen."

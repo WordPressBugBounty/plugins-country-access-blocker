@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "국가 차단기"
+
+msgid "Settings saved."
+msgstr "설정이 저장되었습니다."
+
+msgid "Unknown"
+msgstr "알 수 없음"
+
+msgid "Enable country blocking"
+msgstr "국가 차단 활성화"
+
+msgid "Enable IP-based country blocking"
+msgstr "IP 기반 국가 차단 활성화"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "IP 기반 차단이 활성화되어 있을 때만 이 플러그인이 작동합니다."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr "IP 기반 국가 차단 활성화 (ip-api.com 사용 | 분당 45회 요청 | 무료 버전)"
+
+msgid "Save settings"
+msgstr "설정 저장"
+
+msgid "Dismiss"
+msgstr "닫기"
+
+msgid "Valeri"
+msgstr "발레리"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "안녕하세요, 저는 발레리입니다 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "이 플러그인을 사용해 주셔서 감사합니다."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr "더 많은 유용한 플러그인을 찾고 계시다면 제 웹사이트를 확인해 보세요."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "이 플러그인이 마음에 드신다면 리뷰를 남겨 주시면 감사하겠습니다."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "이 플러그인 평가하기"
+
+msgid "Your detected country:"
+msgstr "감지된 국가:"
+
+msgid "Block all except my country"
+msgstr "내 국가를 제외한 모든 차단"
+
+msgid "Unblock all"
+msgstr "모두 차단 해제"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Block"
+msgstr "차단"
+
+msgid "Blocked"
+msgstr "차단됨"
+
+msgid "Allowed"
+msgstr "허용됨"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "귀하의 국가 (%s)에서의 접속이 차단되었습니다."

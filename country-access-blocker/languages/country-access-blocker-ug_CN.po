@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ug_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "دۆلەت توسقۇچى"
+
+msgid "Settings saved."
+msgstr "تەڭشەكلەر ساقلاندى."
+
+msgid "Unknown"
+msgstr "نامەلۇم"
+
+msgid "Enable country blocking"
+msgstr "دۆلەت توسقۇچنى قوزغىتىش"
+
+msgid "Enable IP-based country blocking"
+msgstr "IP-بويىچە دۆلەت توسقۇچنى قوزغىتىش"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "بۇ پلاگىن IP-بويىچە توسقۇچ ئېچىلغاندالا ئىشلەيدۇ."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"IP-بويىچە دۆلەت توسقۇچنى ئېچىش (ip-api.com بىلەن ئىشلەيدۇ | مىنۇتقا 45 سوراق"
+" | ھەقسىز نەشر)"
+
+msgid "Save settings"
+msgstr "تەڭشەكلەرنى ساقلا."
+
+msgid "Dismiss"
+msgstr "بوشىتىش"
+
+msgid "Valeri"
+msgstr "Valeri"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "سالام، مەن Valeri 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "بۇ پلاگىننى ئىشلىگەنلىكىڭىزغا رەھمەت."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"ئەگەر تېخىمۇ كۆپ ياردەمچى پلاگىنلارنى ئىزدەۋاتسىڭىز، مېنىڭ تور بېكىتىمنى "
+"كۆرۈپ باقسىڭىز بولىدۇ."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "بۇ پلاگىننى ياقتۇرسىڭىز، باھالىشىڭىزدىن مەمنۇن بولار ئىدىم."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "بۇ پلاگىننى باھالاش"
+
+msgid "Your detected country:"
+msgstr "سىزنىڭ بايقىلىپ چىقىرىلغان دۆلەت:"
+
+msgid "Block all except my country"
+msgstr "مىنىڭ دۆلەتتىمدىن باشقا بارچە دۆلەتنى توسۇڭ."
+
+msgid "Unblock all"
+msgstr "بارلىقنى ئېچىش"
+
+msgid "Country"
+msgstr "دۆلەت"
+
+msgid "Status"
+msgstr "ھالەت"
+
+msgid "Block"
+msgstr "توسقۇ"
+
+msgid "Blocked"
+msgstr "توسقۇلغان"
+
+msgid "Allowed"
+msgstr "رۇخسەت قىلغان"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "سىزنىڭ دۆلەتتىن كىرىش (%s) توسۇلدى."

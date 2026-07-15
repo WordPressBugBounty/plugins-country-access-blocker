@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Country Access Blocker 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 00:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Country Blocker"
+msgstr "مسدودکننده کشور"
+
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+msgid "Unknown"
+msgstr "نامشخص"
+
+msgid "Enable country blocking"
+msgstr "فعال‌سازی مسدودسازی کشور"
+
+msgid "Enable IP-based country blocking"
+msgstr "فعال‌سازی مسدودسازی کشور مبتنی بر IP"
+
+msgid "This plugin works only when IP-based blocking is enabled."
+msgstr "این افزونه فقط زمانی کار می‌کند که مسدودسازی مبتنی بر IP فعال باشد."
+
+msgid ""
+"Enable IP-based country blocking (uses ip-api.com | 45 requests per minute |"
+" Free Version)"
+msgstr ""
+"فعال‌سازی مسدودسازی کشور مبتنی بر IP (استفاده از ip-api.com | 45 درخواست در "
+"دقیقه | نسخه رایگان)"
+
+msgid "Save settings"
+msgstr "ذخیره تنظیمات"
+
+msgid "Dismiss"
+msgstr "انصراف"
+
+msgid "Valeri"
+msgstr "والری"
+
+msgid "Hi, I'm Valeri 👋"
+msgstr "سلام، من والری 👋"
+
+msgid "Thanks for using this plugin."
+msgstr "از استفاده از این افزونه سپاسگزارم."
+
+msgid ""
+"If you are looking for more helpful plugins, you can check out my website."
+msgstr ""
+"اگر به دنبال افزونه‌های مفید بیشتری هستید، می‌توانید به وب‌سایت من مراجعه "
+"کنید."
+
+msgid "If you like this plugin, I would be happy about a review."
+msgstr "اگر این افزونه را دوست دارید، خوشحال می‌شوم که نظر بدهید."
+
+msgid "premium-plugin.com"
+msgstr "premium-plugin.com"
+
+msgid "Rate this plugin"
+msgstr "این افزونه را امتیاز بدهید"
+
+msgid "Your detected country:"
+msgstr "کشور تشخیص داده‌شده شما:"
+
+msgid "Block all except my country"
+msgstr "مسدودسازی همه چیز به جز کشور من"
+
+msgid "Unblock all"
+msgstr "رفع انسداد برای همه کشورها"
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Block"
+msgstr "مسدود کردن"
+
+msgid "Blocked"
+msgstr "مسدود شده"
+
+msgid "Allowed"
+msgstr "مجاز"
+
+#. translators: %s is the visitor's country code, e.g. 'DE' or 'US'
+msgid "Access from your country (%s) has been blocked."
+msgstr "دسترسی از کشور شما (%s) مسدود شده است."
